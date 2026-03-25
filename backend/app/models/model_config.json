@@ -1,0 +1,15 @@
+{
+  "features": [
+    "amount",
+    "avg_spending",
+    "hour",
+    "frequency_score",
+    "amount_to_avg_ratio"
+  ],
+  "contamination": 0.0017,
+  "n_estimators": 200,
+  "thresholds": {
+    "HIGH": 0.27817529818247455,
+    "MEDIUM": 0.29178673989478876
+  }
+}
